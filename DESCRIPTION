@@ -1,0 +1,12 @@
+Package: nmbuBIN
+Type: Package
+Title: NMBU Bioinformatics Utilities
+Version: 0.0.1
+Date: 2015-08-19
+Author: Lars Grønvold, Niklas Mähler, Lars Snipen
+Maintainer: Niklas Mähler <niklas.mahler@nmbu.no>
+Description: A small, simple package containing utility functions and small
+    data sets for use in the bioinformatics courses taught at the
+    Norwegian University of Life Sciences (NMBU).
+License: MIT
+LazyData: TRUE
